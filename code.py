@@ -1,0 +1,1 @@
+print("M lishakar + Entri course")
